@@ -1,0 +1,37 @@
+{
+  "status": "WIP",
+  "references": [
+    {
+      "title": "A Neural Probabilistic Language Model",
+      "url": "https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf",
+      "year": 2003
+    },
+    {
+      "title": "Recurrent neural network based language model",
+      "url": "https://gwern.net/doc/ai/nn/rnn/2010-mikolov.pdf",
+      "year": 2010
+    },
+    {
+      "title": "Generating Sequences With Recurrent Neural Networks",
+      "url": "https://arxiv.org/abs/1308.0850",
+      "year": 2014
+    },
+    {
+      "title": "WaveNet - A Generative Model For Raw Audio",
+      "url": "https://arxiv.org/abs/1609.03499",
+      "year": 2016
+    },
+    {
+      "title": "Attention Is All You Need",
+      "url": "https://arxiv.org/abs/1706.03762",
+      "year": 2017
+    }
+  ],
+  "tags": [
+    "Julia",
+    "Course Review",
+    "Julia",
+    "Natural Language Processing",
+    "LLM"
+  ]
+}
