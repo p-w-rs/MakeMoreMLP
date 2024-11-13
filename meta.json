@@ -1,4 +1,5 @@
 {
+  "description": "Julia follow along of Andrej Karpathy's youtube series on Natural Language Processing and LLMs",
   "status": "WIP",
   "references": [
     {
@@ -27,11 +28,5 @@
       "year": 2017
     }
   ],
-  "tags": [
-    "Julia",
-    "Course Review",
-    "Julia",
-    "Natural Language Processing",
-    "LLM"
-  ]
+  "tags": ["Course", "Julia", "Natural Language Processing", "LLM"]
 }
