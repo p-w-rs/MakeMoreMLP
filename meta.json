@@ -1,6 +1,6 @@
 {
   "description": "Julia follow along of Andrej Karpathy's youtube series on Natural Language Processing and LLMs",
-  "status": "WIP",
+  "status": "DONE",
   "references": [
     {
       "title": "A Neural Probabilistic Language Model",
